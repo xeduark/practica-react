@@ -1,5 +1,4 @@
 
-import './App.css'
 
 function Logo() {
   return (
@@ -46,13 +45,4 @@ function Header() {
   );
 }
 
-
-function App() {
-  return (
-    <div>
-      <Header />
-    </div>
-  );
-}
-
-export default App
+export default Header
